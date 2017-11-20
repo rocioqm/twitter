@@ -1,0 +1,12 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+h1 {
+  color: #ffffff;
+  background-color: #6AD2F3;
+  height: 50px;
+  text-align: center;
+}
