@@ -59,7 +59,7 @@ text.addEventListener('keyup', function() {
 text.addEventListener('keyup', function() {
   var tweetLetters = text.value.length;
   if (tweetLetters >= 0 && tweetLetters <= 120) {
-  counter.className = 'initial';
+  counter.className = 'original';
 } else if(tweetLetters = 121 && tweetLetters <= 130){
   counter.className = 'yellow';
 } else if(tweetLetters = 131 && tweetLetters <= 140){
